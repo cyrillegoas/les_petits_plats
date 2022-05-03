@@ -7,7 +7,7 @@ const M=function(){const t=document.createElement("link").relList;if(t&&t.suppor
                 <div class="recipe__timer-wrapper">
                   <img
                     class="recipe__timer-icon"
-                    src="./public/icons/clock.svg"
+                    src="/les_petits_plats/public/icons/clock.svg"
                     alt="clock"
                   />
                   <span class="recipe__timer-min">${a.table.get(e).time} min</span>
